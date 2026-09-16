@@ -112,8 +112,5 @@ README.md — Project documentation
 
 This project was created to practice the fundamentals of Python programming through a simple interactive program.
 
-💻 Video Explanation
-
-https://drive.google.com/file/d/1Cz5-XTpKDjAGSLgww-uyuEUJNemmSfGF/view?usp=sharing
 
 
